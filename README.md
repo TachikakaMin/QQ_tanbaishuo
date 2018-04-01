@@ -13,4 +13,4 @@ name_friends.py  -->  https://ti.qq.com/cgi-node/honest-say/receive/friends
 
 上面网页可能出现错误，多刷新几次就好了，感谢q师傅提供的网站（逃
 
-腾讯修复BUG后应该就没用了。
+腾讯修复BUG后应该就没用了，所以及时点star（逃
